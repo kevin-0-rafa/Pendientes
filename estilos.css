@@ -1,0 +1,14 @@
+.content-foo{
+    text-align: center!important;
+}
+
+.content-foo h4{
+    color: #fff!important;
+    border-bottom: 3px solid #ed6618!important;
+    padding-bottom: 5px!important;
+    margin-bottom: 10px!important;
+}
+
+.content-foo p{
+    color: #ccc!important;
+}
